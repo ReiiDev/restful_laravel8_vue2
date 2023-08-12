@@ -1,0 +1,4 @@
+php artisan serve --host 10.169.141.43 --port 8000
+
+
+yarn serve
